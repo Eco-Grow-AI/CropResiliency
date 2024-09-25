@@ -36,6 +36,9 @@ At the end of the growing period, measure several factors to determine biomass:
 - **Dry weight** of roots.
 - **Total leaf area** and **number of leaves**.
 
+## 3.5 Collect Other Data
+In addition to Biomass, ensure you collect a wide variety of agornomic features for each group and plant, this step is essential.
+
 ## 4. Calculate Resiliency Score
 
 To quantify resiliency, normalize the biomass measurements on a 0-10 scale:

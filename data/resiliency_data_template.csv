@@ -1,0 +1,4 @@
+Plant_ID,condition,normal_biomass,adverse_biomass
+P001,Normal,105.0, 
+P002,Drought,75.0,
+P003,Heat,60.0,
